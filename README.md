@@ -1,6 +1,6 @@
 # React + Fleek Starter Kit
 
-![preview](./.github/preview.png)
+![image](https://github.com/fleekxyz/react-template/assets/73345016/893147d2-ad3c-4da2-bc75-c3390c528017)
 
 ## 🚀 Project Structure
 
